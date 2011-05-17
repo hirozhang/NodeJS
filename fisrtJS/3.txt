@@ -1,0 +1,1 @@
+Here is contents in "3.txt".
